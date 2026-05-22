@@ -1,9 +1,47 @@
-# ⚡ BillingOS — Role-Based SaaS Billing Portal
+<div align="center">
 
-A production-grade, full-stack SaaS Billing Portal built with the MERN stack. Features JWT authentication, role-based access control (RBAC), plan management, subscription lifecycle, invoice generation, and an admin analytics dashboard.
+# 🚀 BillingOS — The Future of SaaS Billing Infrastructure
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Next-Gen+SaaS+Billing+Platform;Enterprise-Grade+Subscription+Management;Role-Based+Access+Control+(RBAC);Modern+Analytics+Dashboard;Secure+JWT+Authentication;Production-Ready+MERN+Stack+Project" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge" />
+
+</div>
 
 ---
 
+## 🌌 Overview
+
+BillingOS is a futuristic, production-grade SaaS Billing Platform built with the MERN stack, featuring intelligent subscription management, secure authentication, invoice automation, analytics dashboards, and enterprise-grade role-based access control.
+
+⚡ Designed to simulate real-world SaaS infrastructure with scalable architecture and premium UI/UX.
+
+---
+## 📸 Project Preview
+
+### Dashboard
+<img width="1897" height="909" alt="image" src="https://github.com/user-attachments/assets/55b457ae-532d-4783-a989-42b49b379d26" />
+
+
+### Pricing Plans
+<img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/d6f01d90-1b0f-4ee0-adea-a62f1f925174" />
+
+
+### Admin Analytics
+<img width="1911" height="921" alt="image" src="https://github.com/user-attachments/assets/a44e0ca3-bc98-4f86-8e8c-7a256289c95b" />
+
+
+### Invoices
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/0d927020-98b1-4bd4-8566-0335a3a72cd7" />
+
+
+---
 ## 🚀 Features
 
 ### User Roles
