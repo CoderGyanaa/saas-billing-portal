@@ -1,0 +1,10 @@
+const express = require('express');
+const router = express.Router();
+const { subscribe, getMySubscription, cancelSubscription, upgradeSubscription, getAllSubscriptions } = require('../controllers/subscriptionController');
+const { protect, authorize } = require('../middleware/auth');
+router.post('/', protect, subscribe);
+router.get('/my', protect, getMySubscription);
+router.put('/cancel', protect, cancelSubscription);
+router.put('/upgrade', protect, upgradeSubscription);
+router.get('/', protect, authorize('superadmin', 'admin', 'billing_manager'), getAllSubscriptions);
+module.exports = router;
